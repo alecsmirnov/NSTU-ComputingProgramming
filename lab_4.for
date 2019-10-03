@@ -15,7 +15,6 @@
         PRINT *, 'Gauss_3: ', result
 *        PRINT *, 'Gauss_4: ', result_2
 
-        
         PAUSE
       END
       
